@@ -10,7 +10,7 @@
 <h3 align="center">📫 How to reach me:</h3>
 <p align="center">
   <a href="mailto:kaviniwickramasooriya@gmail.com">kaviniwickramasooriya@gmail.com</a> |
-  <a href="https://kavini-wickramasooriya.pages.dev/](https://kaviniwickramasooriya.github.io/Kavini_Portfolio/">Portfolio</a> |
+  <a href="https://kaviniwickramasooriya.github.io/Kavini_Portfolio/">Portfolio</a> |
   <a href="https://www.linkedin.com/in/kavini-wickramasooriya-937a70179/">LinkedIn</a>
 </p>
 
