@@ -18,7 +18,7 @@
 
 - 🤝 I’m looking for help with **web development projects.**
 
-- 💬 Ask me about **MERN STACK, React Native, C, C++, HTML, CSS, JavaScript, Java, PHP, MySQL.**
+- 💬 Ask me about **MERN Stack, React Native, C, C++, HTML, CSS, JavaScript, Java, PHP, MySQL.**
 
 <a href="https://www.github.com/KaviniPramudika" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/KaviniPramudika?logo=github&style=for-the-badge&color=0891b2&labelColor=181824" /></a>
