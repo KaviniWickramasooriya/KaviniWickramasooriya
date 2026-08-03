@@ -1,7 +1,7 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:016EEA,100:7F77DD&height=120&section=header&text=Kavini%20Wickramasooriya&fontSize=36&fontColor=ffffff&fontAlignY=65&animation=fadeIn" width="100%"/>
 
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=22&duration=3000&pause=1000&color=016EEA&center=true&vCenter=true&width=650&lines=Full+Stack+Developer+%F0%9F%9A%80;Software+Engineering+Undergraduate;MERN+%7C+React+Native+%7C+Flutter+%7C+.NET;From+Sri+Lanka+%F0%9F%87%B1%F0%9F%87%B0" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=22&duration=3000&pause=1000&color=016EEA&center=true&vCenter=true&width=650&lines=Full+Stack+Developer+%F0%9F%9A%80;Tech+&+Finance+Enthusiast;MERN+%7C+React+Native+%7C+Flutter+%7C+.NET;From+Sri+Lanka+%F0%9F%87%B1%F0%9F%87%B0" alt="Typing SVG" />
 
   <br/><br/>
 
