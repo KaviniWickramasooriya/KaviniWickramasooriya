@@ -1,7 +1,7 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:016EEA,100:7F77DD&height=120&section=header&text=Kavini%20Wickramasooriya&fontSize=36&fontColor=ffffff&fontAlignY=65&animation=fadeIn" width="100%"/>
 
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=22&duration=3000&pause=1000&color=016EEA&center=true&vCenter=true&width=650&lines=Full+Stack+Developer+%F0%9F%9A%80;Tech+%26+Finance+Enthusiast+%F0%9F%92%B0;MERN+%7C+React+Native+%7C+Flutter+%7C+Python;From+Sri+Lanka+%F0%9F%87%B1%F0%9F%87%B0" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=22&duration=3000&pause=1000&color=016EEA&center=true&vCenter=true&width=700&lines=Undergraduate+Student+%7C+Aspiring+Software+Engineer;Tech+%26+Finance+Enthusiast+%F0%9F%92%B0;MERN+%7C+React+Native+%7C+Flutter+%7C+Python;From+Sri+Lanka+%F0%9F%87%B1%F0%9F%87%B0" alt="Typing SVG" />
 
   <br/><br/>
 
@@ -33,13 +33,19 @@
 
 ## 👨‍💻 About Me
 
-Hi 👋, I'm **Kavini Wickramasooriya** — an Undergraduate Student at **SLIIT** & **University of Sri Jayewardenepura**.  
+Hi 👋, I'm **Kavini Wickramasooriya** — an **Undergraduate Student** at **SLIIT** and the **University of Sri Jayewardenepura**.
 
-I’m very passionate about the work that I do and aspire to work as a **Software Engineer**.
+I’m very passionate about the work that I do and aspire to work as a **Software Engineer**. I will be completing both of my degrees in the near future (pending graduations).
 
-I am currently pursuing a **B.Sc. (Hons.) in Information Technology specialized in Software Engineering** at the **Sri Lanka Institute of Information Technology (SLIIT)** alongside a **B.Sc. in Applied Sciences** (Computer Science, Physics & Mathematics) at the **University of Sri Jayewardenepura**.
+I am currently pursuing:
+- **B.Sc. (Hons.) in Information Technology** specialized in Software Engineering at SLIIT
+- **B.Sc. in Applied Sciences** (Computer Science, Physics & Mathematics) at University of Sri Jayewardenepura
 
-I recently completed my internship as a **Software Engineer at NEXORA PVT LTD**, where I worked on full-stack web and mobile applications using **React, Node.js, PostgreSQL, and MongoDB**.
+Alongside my technical studies, I am also building strong foundations in **Accounting and Finance**:
+- Business Level at the **Institute of Chartered Accountants of Sri Lanka (CA Sri Lanka)**
+- Diploma in Banking & Finance at the **Institute of Bankers of Sri Lanka**
+
+I recently completed my internship as a **Software Engineer at NEXORA PVT LTD**, where I contributed to full-stack web and mobile applications using **React, Node.js, PostgreSQL, and MongoDB**.
 
 - 🌱 Currently learning **Flutter, .NET & Python**
 - 💼 Looking to collaborate on **web & mobile development projects**
@@ -51,17 +57,19 @@ I recently completed my internship as a **Software Engineer at NEXORA PVT LTD**,
 
 ## 🎓 Education
 
+**Academic Degrees**
 - **B.Sc. (Hons.) in Information Technology** specialized in Software Engineering  
   Sri Lanka Institute of Information Technology (SLIIT) — 2022–2026
-
 - **Higher Diploma in Information Technology**  
   SLIIT — 2022–2024
-
 - **B.Sc. in Applied Sciences** (Computer Science, Physics, Mathematics)  
   University of Sri Jayewardenepura — 2023–2026
-
 - **Diploma in Information Technology**  
   IMBS Green Campus — 2023
+
+**Professional Qualifications**
+- **Business Level** — Institute of Chartered Accountants of Sri Lanka (2025–Present)
+- **Diploma in Banking & Finance** — Institute of Bankers of Sri Lanka (2026–Present)
 
 ---
 
